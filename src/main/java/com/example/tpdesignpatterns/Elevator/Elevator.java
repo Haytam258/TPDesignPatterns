@@ -1,6 +1,6 @@
-package com.example.tpdesignpatterns;
+package com.example.tpdesignpatterns.Elevator;
 
-import com.example.tpdesignpatterns.State.ElevatorState;
+import com.example.tpdesignpatterns.Elevator.State.ElevatorState;
 
 public class Elevator {
     private int floor;

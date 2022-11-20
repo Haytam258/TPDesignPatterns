@@ -1,7 +1,7 @@
-package com.example.tpdesignpatterns.Factory;
+package com.example.tpdesignpatterns.Elevator.Factory;
 
-import com.example.tpdesignpatterns.Elevator;
-import com.example.tpdesignpatterns.State.RestState;
+import com.example.tpdesignpatterns.Elevator.Elevator;
+import com.example.tpdesignpatterns.Elevator.State.RestState;
 
 public class ElevatorFactoryImple implements ElevatorFactory{
 

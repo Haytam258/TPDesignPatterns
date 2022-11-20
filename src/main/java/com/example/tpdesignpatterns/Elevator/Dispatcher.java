@@ -1,4 +1,4 @@
-package com.example.tpdesignpatterns;
+package com.example.tpdesignpatterns.Elevator;
 
 import java.util.HashMap;
 

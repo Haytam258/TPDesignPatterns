@@ -1,10 +1,10 @@
-package com.example.tpdesignpatterns;
+package com.example.tpdesignpatterns.Elevator;
 
-import com.example.tpdesignpatterns.Factory.ElevatorFactory;
-import com.example.tpdesignpatterns.Factory.ElevatorFactoryImple;
-import com.example.tpdesignpatterns.State.DownState;
-import com.example.tpdesignpatterns.State.StopState;
-import com.example.tpdesignpatterns.State.UpState;
+import com.example.tpdesignpatterns.Elevator.Factory.ElevatorFactory;
+import com.example.tpdesignpatterns.Elevator.Factory.ElevatorFactoryImple;
+import com.example.tpdesignpatterns.Elevator.State.DownState;
+import com.example.tpdesignpatterns.Elevator.State.StopState;
+import com.example.tpdesignpatterns.Elevator.State.UpState;
 
 import java.util.HashMap;
 

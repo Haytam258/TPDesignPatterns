@@ -1,5 +1,6 @@
 package com.example.tpdesignpatterns;
 
+import com.example.tpdesignpatterns.Elevator.Building;
 import org.testng.annotations.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

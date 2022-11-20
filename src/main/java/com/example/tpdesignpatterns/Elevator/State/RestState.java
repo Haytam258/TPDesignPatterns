@@ -1,6 +1,6 @@
-package com.example.tpdesignpatterns.State;
+package com.example.tpdesignpatterns.Elevator.State;
 
-import com.example.tpdesignpatterns.Elevator;
+import com.example.tpdesignpatterns.Elevator.Elevator;
 
 public class RestState implements ElevatorState{
 
